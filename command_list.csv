@@ -1,0 +1,125 @@
+    1  sudo nano /etc/hosts
+    2  sudo nano /etc/hosts
+    3  sudo nano /etc/hosts
+    4  git --version
+    5  help
+    6  man
+    7  §help
+    8  help
+    9  help
+   10  help
+   11  cd
+   12  help cd
+   13  man cd
+   14  man ls
+   15  cd postman
+   16  cd Postman/
+   17  ls
+   18  cd Pictures
+   19  ls -l
+   20  cd~
+   21  cd ~
+   22  cd HW_10
+   23  cd HW_Git
+   24  cd HW_GIT
+   25  cd 
+   26  LS
+   27  cd HW_Git/
+   28  cd Desctop/HW_Git/
+   29  cd Desktop/HW_Git/
+   30  history -c && rm ~/.bash_history
+   31  cd Desktop/HW_Git/
+   32  https://github.com/Apolonchik/HW_10.git
+   33  git clone https://github.com/Apolonchik/HW_10.git
+   34  cd HW_10
+   35  cd HW_10
+   36  cd HW_10
+   37  https://github.com/Apolonchik/HW_10.git
+   38  cd HW_10\n
+   39  man ls
+   40  ls
+   41  cd Desktop
+   42  ls
+   43  cd Documents
+   44  q
+   45  cd ..
+   46  ls
+   47  cd Downloads
+   48  ls
+   49  cd ..
+   50  cd ~
+   51  cd /
+   52  cd Desktop
+   53  cd Desktop
+   54  pwd
+   55  ls
+   56  ls
+   57  cd Desktop
+   58  mkdir Lesson
+   59  touch empty.txt
+   60  nano empty.txt
+   61  ls
+   62  cd Desktop
+   63  cd Git
+   64  git config --global user.name "Apolonova Tetiana"
+   65  git config --global user.name "Tanya ApolonovA"
+   66  cd Git
+   67  clear
+   68  git config --global user.name "Apollo 1990"
+   69  git config --global user.name "Tanya A"
+   70  ls
+   71  cd Desktop
+   72  cd Git
+   73  git config --global user.name "Ivan Ivanov"
+   74  git config --global user.email ivan_ivanov@com.com
+   75  cd Git
+   76  ls
+   77  clear
+   78  cd Desktop
+   79  cd Git
+   80  cd Desktop
+   81  cd Git
+   82  git config --global user.name "Apolon4ik"
+   83  cd Desktop
+   84  cd Git
+   85  git clone https://github.com/Apolonchik/HW_10.git
+   86  cd ..
+   87  Last login: Fri Jul 19 22:24:09 on ttys000\nalexkuramshyn@MacBook-Air--Apolon4ik ~ % cd Desktop\nalexkuramshyn@MacBook-Air--Apolon4ik Desktop % cd Git\nalexkuramshyn@MacBook-Air--Apolon4ik Git % git clone https://github.com/Apolonchik/HW_10.git\nfatal: unable to get current working directory: Operation not permitted\nalexkuramshyn@MacBook-Air--Apolon4ik Git q
+   88  mkdir test_folder\ncd test_folder\ngit clone https://github.com/Apolonchik/HW_10.git
+   89  q
+   90  cd Desktop
+   91  mkdir test_folder
+   92  ls
+   93  cd ..
+   94  cd Desktop
+   95  cd test_folder
+   96  cd HW_10
+   97  git status
+   98  touch text_ignore.txt
+   99  git status
+  100  git add
+  101  git add .
+  102  git add text.ignore.txt
+  103  git status
+  104  ls
+  105  cd HW_10
+  106  touch main_test.txt
+  107  git add main_test.txt
+  108  git commit -m "New file created"
+  109  git checkout -b develop
+  110  git brach
+  111  git branch
+  112  touch develop_test.txt
+  113  git add develop_test.txt
+  114  git commit -m "New file 2 created"
+  115  nano develop_test.txt file
+  116  git status
+  117  git add develop_test.txt file
+  118  git add develop_test.txt
+  119  git commit -m "New branch wa created"
+  120  git status
+  121  git checkout main
+  122  git merge develop
+  123  git branch
+  124  git status
+  125  git log
